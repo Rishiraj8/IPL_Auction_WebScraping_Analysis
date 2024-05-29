@@ -5,9 +5,9 @@
 ## Overview
 
 This is basically done for my Data Science mini Project for my semester so, You can too use it if you needed incase of emergency to show some basic Data Science Project..
-Just Copy and Paste the main.py contained lines and before going too that install the dependencies that needs to run this file..
+Just Copy and Paste the main.py contained lines and before going on, install the dependencies that needs to run this file..
 
-This is the official website of IPL 2022 auctions where I have webscrabbed..)
+This is the official website of IPL 2022 auctions where I have webscrapped..)
 <link>https://www.iplt20.com/auction/2022</link>
 
 ## Dependencies
